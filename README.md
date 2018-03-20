@@ -6,10 +6,10 @@
 |**QQ:**|<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=412425870&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:412425870:41" alt="点击这里给我发消息" title="412425870"/></a>|
 |**邮箱:**|**412425870@qq.com**|
 |**csdn博客：**|**[http://blog.csdn.net/caychen](http://blog.csdn.net/caychen "我的csdn博客")**|
-|码云：|[https://gitee.com/caychen/](https://gitee.com/caychen/ "我的码云")|
-|github：|[https://github.com/caychen](https://gitee.com/caychen/ "我的github")|
-|点击群号或者扫描二维码即可加入QQ群:[328243383(1群)](https://jq.qq.com/?_wv=1027&k=54r3suD)|![](https://github.com/caychen/readme/raw/master/img/1%E7%BE%A4.png)
-|点击群号或者扫描二维码即可加入QQ群:[180479701(2群)](https://jq.qq.com/?_wv=1027&k=521g7zY)|![](https://github.com/caychen/readme/raw/master/img/2%E7%BE%A4.png)
+|**码云：**|**[https://gitee.com/caychen/](https://gitee.com/caychen/ "我的码云")**|
+|**github：**|**[https://github.com/caychen](https://gitee.com/caychen/ "我的github")**|
+|**点击群号或者扫描二维码即可加入QQ群:[328243383(1群)](https://jq.qq.com/?_wv=1027&k=54r3suD)**|**![](https://github.com/caychen/readme/raw/master/img/1%E7%BE%A4.png)**|
+|**点击群号或者扫描二维码即可加入QQ群:[180479701(2群)](https://jq.qq.com/?_wv=1027&k=521g7zY)**|**![](https://github.com/caychen/readme/raw/master/img/2%E7%BE%A4.png)**|
 
 
 ****
