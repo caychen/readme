@@ -2,7 +2,7 @@
 
 |#|#|
 |:--|:--:|
-|Author:|Cay|
+|作者:|Cay|
 |QQ:|<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=412425870&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:412425870:41" alt="点击这里给我发消息" title="412425870"/></a>|
 |邮箱:|412425870@qq.com|
 |csdn博客：|[http://blog.csdn.net/caychen](http://blog.csdn.net/caychen "我的csdn博客")|
