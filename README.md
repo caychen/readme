@@ -146,7 +146,7 @@ https://github.com/caychen/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[博客](http://blog.csdn.net/ "悬停显示")`|[博客](http://blog.csdn.net/ "悬停显示")|
+|1|`[我的CSDN博客](http://blog.csdn.net/caychen "我的CSDN博客")`|[我的CSDN博客](http://blog.csdn.net/caychen "我的CSDN博客")|
 |2|`[知乎][zhihu] `|[知乎][zhihu] |
 
 语法2由两部分组成：
@@ -318,9 +318,9 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 ###### 此处为文末，以下不显示，用于加入一些url标识符
 --------------------------------
-[csdn]:http://blog.csdn.net/ "我的博客"
+[csdn]:http://blog.csdn.net/caychen "我的博客"
 [zhihu]:https://www.zhihu.com/ "我的知乎，欢迎关注"
-[weibo]:https://weibo.com/
+[weibo]:https://weibo.com/2611991024/profile?rightmod=1&wvr=6&mod=personinfo
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
